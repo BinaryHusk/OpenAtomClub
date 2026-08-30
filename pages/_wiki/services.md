@@ -87,7 +87,7 @@ HUST openatom Club Translation Team，负责翻译国外优秀媒体关于 Linux
 
 翻译和分享 Linux 内核机理相关知识的平台。
 
-- **链接**：[https://docs.openatom.club](https://docs.openatom.club)
+- **链接**：[https://linux-insides.openatom.club](https://linux-insides.openatom.club/)
 
 ### x86 指令集参考平台
 
